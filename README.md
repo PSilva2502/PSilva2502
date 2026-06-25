@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">Olá 👋 Eu sou o Pedro Silva, um eterno aprendiz! Entusiasta de novas formas de aprendizado. Estudante de Sistemas de Informação 6/8</p>
+<p align="left">Olá 👋 Eu sou o Pedro Silva, um eterno aprendiz! Entusiasta de novas formas de aprendizado. Formado em Sistemas de Informações</p>
 
 ```python
 class Pedro():
